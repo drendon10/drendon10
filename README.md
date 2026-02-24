@@ -1,5 +1,9 @@
 # 💫 About Me:
-I’m a Computer Science graduate from the University of Arizona (Dec 2025) with a strong interest in building reliable software and clean, well-designed systems. I enjoy working across the stack, with a particular focus on backend development, APIs, and data-driven applications, while also building modern web apps with React and TypeScript. I’ve built full-stack projects including a job search automation platform, a cloud storage system, and a bilingual e-commerce app used by real customers. I enjoy learning new technologies, solving problems, and turning ideas into practical solutions. I’m currently looking for opportunities to grow as a software engineer and contribute to meaningful projects.
+I’m a Computer Science graduate from the University of Arizona (Dec 2025) with a strong interest in building reliable software and clean, well-designed systems. I enjoy working across the stack, with a particular focus on backend development, APIs, and data-driven applications, while also building modern web apps with React and TypeScript. 
+
+I’ve built full-stack projects including a job search automation platform, a cloud storage system, and a bilingual e-commerce app used by real customers. I enjoy learning new technologies, solving problems, and turning ideas into practical solutions. 
+
+I’m currently looking for opportunities to grow as a software engineer and contribute to meaningful projects.
 
 
 ## 🌐 Socials:
